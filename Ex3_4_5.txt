@@ -1,0 +1,27 @@
+3- A variável INDICE é definida como 12, SOMA inicia em 0 e K começa em 1. O loop continua enquanto K for menor que INDICE. Em cada iteração, K é incrementado em 1 e esse novo valor é somado à variável SOMA.
+
+No decorrer do loop, os valores de K que serão somados a SOMA são de 2 até 11. Portanto, a soma será:
+SOMA= 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11
+SOMA = 65
+
+Portanto, ao final do processamento, o valor da variável SOMA será 65.
+
+4-a- Na sequência 1, 3, 5, 7, o próximo número é 9, pois são números ímpares.
+
+b- Na sequência 2, 4, 8, 16, 32, 64, o próximo elemento é 128, que são potências de 2
+
+c- Na sequência 0, 1, 4, 9, 16, 25, 36, o próximo número é 49, que são quadrados.
+
+d- Na sequência 4, 16, 36, 64, o próximo número é 100, que representa os quadrado perfeitos
+
+e- Na sequência de Fibonacci 1, 1, 2, 3, 5, 8 o próximo número é 13.
+
+f- Na sequência 2, 10, 12, 16, 17, 18, 19, o próximo número é 20 que segue uma sequência crescente.
+
+5-Primeiro ligar o primeiro interruptor e deixá-lo ligado por alguns minutos.
+ Depois, desligue-o e ligue o segundo interruptor. Em seguida, vá até a sala das lâmpadas. 
+ A lâmpada que estiver acesa é controlada pelo segundo interruptor.
+  Toque nas lâmpadas apagadas: a que estiver quente é controlada pelo primeiro interruptor
+  , que você deixou ligado anteriormente, e a que estiver fria é controlada pelo terceiro interruptor,
+ que nunca foi ligado.
+ 
